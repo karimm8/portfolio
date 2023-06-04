@@ -1,0 +1,24 @@
+.skills{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.skills h2{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 40px;
+}
+
+.progress{
+    margin-bottom: 50px;
+}
+
+@media(max-width:991px){
+    .skills img{
+        display: none;
+    }
+}

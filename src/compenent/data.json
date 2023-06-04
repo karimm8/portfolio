@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "image" : "https://cdn.pixabay.com/photo/2015/01/09/11/09/meeting-594091_1280.jpg",
+        "title" : "Template Kasper With HTML && CSS Design",
+        "desc" : "le site web est bien structurées par HTML plus les animations et responsive d'un site web ensuit se deplacer entre les pages par scroll behavior et bien structures",
+        "view" : "https://karimm8.github.io/template-two/"
+    },
+    {
+        "id":2,
+        "image":"https://cdn.pixabay.com/photo/2016/07/14/15/01/calculator-1516869_1280.jpg",
+        "title":"Calulatric With JS design",
+        "desc":"En utilisant des concepts de programmation tels que la manipulation d'éléments HTML et les fonctions, une calculatrice JavaScript permet aux utilisateurs d'effectuer des calculs en saisissant des chiffres et des opérateurs via une interface conviviale.",
+        "view":"https://karimm8.github.io/calculatric/"
+    },
+    {
+        "id":3,
+        "image":"https://cdn.pixabay.com/photo/2015/08/31/07/30/istanbul-915076_1280.jpg",
+        "title":"Turkey Website With HTML && CSS Design",
+        "desc":"le site web est un responsive avec des mises en page bien structurées et des visuels attrayants.Les effets CSS bien intégrés, tels que les transitions douces et les animations.",
+        "view":"https://karimm8.github.io/turkey/"
+    }
+]
