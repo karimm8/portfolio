@@ -20,11 +20,11 @@ function App() {
                  <h2 className="logo">karimmaarouf</h2>
             </Link>
           <ul className={click ? "nav active" : "nav"}>
-              <a><Link to={"/"}>home</Link></a>
-              <a><Link  to={"/compenent/about"}>about</Link></a>
-              <a><Link to={"/compenent/contact"}>contact</Link></a>
-              <a><Link  to={"/compenent/skills"}>skills</Link></a> 
-              <a><Link  to={"/compenent/project"}>projects</Link></a>      
+              <a><Link to={"/"} target="_blank">home</Link></a>
+              <a><Link  to={"/compenent/about"} target="_blank">about</Link></a>
+              <a><Link to={"/compenent/contact"} target="_blank">contact</Link></a>
+              <a><Link  to={"/compenent/skills"} target="_blank">skills</Link></a> 
+              <a><Link  to={"/compenent/project"} target="_blank">projects</Link></a>      
           </ul>
           <div className="humburger" onClick={handClick}>
             {
