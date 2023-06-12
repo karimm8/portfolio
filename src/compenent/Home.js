@@ -1,5 +1,5 @@
 import './Home.css';
-import pdf from './actual.pdf';
+import pdf from './karimcv.pdf';
 import img from '../man-3037342_1280.jpg'
 import Typewriter from 'typewriter-effect';
 export default function Home() {
