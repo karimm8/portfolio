@@ -16,8 +16,8 @@
     {
         "id":3,
         "image":"https://cdn.pixabay.com/photo/2015/08/31/07/30/istanbul-915076_1280.jpg",
-        "title":"Turkey Website With HTML && CSS Design",
-        "desc":"le site web est un responsive avec des mises en page bien structurées et des visuels attrayants.Les effets CSS bien intégrés, tels que les transitions douces et les animations.",
-        "view":"https://karimm8.github.io/turkey/"
+        "title":"Location Mobilier Application Web avec React",
+        "desc":"le site web est un responsive avec des mises en page bien structurées et des visuels attrayants.Les effets SCSS bien intégrés, tels que les transitions douces et les animations.",
+        "view":"https://kapsa-karimm8.vercel.app/"
     }
 ]
